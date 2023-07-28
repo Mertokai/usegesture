@@ -1,1 +1,1 @@
-In this component I did a stories instagram with useGesture package 
+In this component I did a stories section in instagram with useGesture package 
